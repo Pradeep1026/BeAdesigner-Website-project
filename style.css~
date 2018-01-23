@@ -1,0 +1,244 @@
+<style>
+*{
+padding-top:0px;
+}
+body {
+    line-height: 18px;
+    margin: 0px;
+    padding: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+color: #e6e6f0cc;
+
+}
+
+.bodybackground{
+width:1340px;
+height:auto;
+background:url(body_BG.jpg) repeat-x #0a0d0f;;
+}
+.title{
+	padding:20px ;
+}
+.container{
+	margin: 0 auto;
+	/*background: url(background-wood.jpg);*/
+	box-shadow: 0px 9px 19px 5px;
+	width: 983px;
+	height:auto;
+	 
+
+}
+.header{
+	 padding: 0px;
+	background-image:url("h.png") ;
+}
+
+#menu{
+	background-image:url(" navigation_BG.png");
+        width: 780px;
+        margin: 0px auto;
+    	height: 49px;
+        box-shadow: 0px 18px 6px;
+	border-radius: 5px;
+}
+
+#menu ul li{
+	display: block;
+    	float: left;
+    	margin-right: 5px;
+}
+
+#menu ul li a{
+display: block;
+padding: 16px 20px 9px 20px;
+font-family: "Myriad Pro";
+font-size: 15px;
+color: #fff;
+text-decoration: none;
+text-transform: uppercase;
+
+}
+#menu ul li a:hover{
+color:#ff0000 !important;
+background-image:url("hover_left.jpg")!important;
+margin-top: 2px;
+    border-radius: 12px;
+}
+.active{
+ background:url("hover_left.jpg")!important;
+    margin-top: 2px;
+    border-radius: 12px;
+ color: #ff0000;
+
+}
+
+.side-bar{
+width: 223px;
+float: left;
+margin-top: 20px;
+}
+
+.side-bartopround{
+background: url(sidebar_top_round.png);
+width: 223px;
+height: 13px;
+}
+.side-barcentercontent{
+background: url(sidebar_center_BG.jpg) repeat-y;
+    width: 183px;
+    padding: 12px 20px;
+}
+
+.bullet_list li a{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+color: #969696;
+text-decoration: none;
+
+}
+.bullet_list li{
+background: url(bullets_sepratorLine.png) bottom left repeat-x;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    list-style-position: inside;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #969696;
+	list-style-image: url(bullet_icon.png);
+	list-style-position: inside;
+	
+
+}
+.bullet_list2 li{
+background: url(bullets_sepratorLine.png) bottom left repeat-x;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #969696;
+	list-style:none;
+
+}
+.social_icon_text  a{
+text-decoration: none;
+ color: #969696;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+}
+
+#content{
+	width:750;
+	
+}
+.topbanner{
+	margin-bottom:30px;
+	float:left;
+	margin-top:25px;
+	margin-left:30px;
+}
+.content_area {
+    padding-left: 250px;
+    text-align: justify;
+    padding-right:100px;
+}
+#h2_font{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #ffffff;
+	line-height: 1.2em;
+	margin-bottom: 10px;
+
+}
+#h3_font{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+	line-height: 1.2em;
+	margin-bottom: 10px;
+}
+p{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+color: #e6e6f0cc;
+
+}
+.list_font{
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #ffffff;
+	line-height: 1.2em;
+	margin-bottom: 10px;
+}
+.sidebar-topcontent{
+margin-top:10px;
+}
+.clear_float{
+clear: both;
+    display: block;
+    height: 1px;
+    visibility: hidden;
+}
+#footer{
+font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #969696;
+    text-decoration: none;
+}
+#footer {
+    background: url(footer_BG.png);
+    width: 983px;
+    height: 50px;
+    padding-top: 30px;
+    margin-bottom: 0px;
+    text-align: center;
+
+}
+.footerTextBold {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: bold;
+}
+social_icon {
+    float: left;
+	margin-top:90px;
+}
+.social_icon_text{
+    color: #969696;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+#nextindex,#nextindex a{
+float:right;
+text-decoration:none;
+}
+#previndex,#previndex a{
+float:left;
+text-decoration:none;
+}
+.img-div{
+border: 3px solid #fff;
+height: 180px;
+margin: 20px auto 0;
+overflow: hidden;
+position: relative;
+transition: all 0.3s ease-out 0s;
+width: 320px;
+
+}
+.youtube-playbtn {
+    background: url(play-bt.png) no-repeat;
+    position: absolute;
+    text-decoration: none;
+    top: 40%;
+    left: 41%;
+    text-indent: -99999px;
+    height: 35px;
+    width: 50px;
+    z-index: 5;
+}
+
+
+</style>

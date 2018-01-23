@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8"> 
+   <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+   <title> Home </title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+ <body> 
+<div class="bodybackground">
+   <div class="container">
+   <header class="header">
+	<a class="title" href="index.html"> <img src="images/ap-logo2.png" height="195" width="300"> </a>
+   </header>
+   <nav id="menu">
+	<ul>
+	<li class="active">
+    	<a href="index.html"> HOME </a>
+	</li>
+	<li >
+	<a href="about.html"> ABOUT US </a>
+	</li>
+	<li>
+	<a href="contact.html"> CONTACT US </a>
+	</li>
+        <li> 
+        <a href="images.html">IMAGES</a>
+        </li>
+	</ul>
+   </nav>
+  
+      <div class="side-bar"> 
+	<div class="side-bartopround"></div>
+	<div class="side-barcentercontent">
+	<ul class="bullet_list">
+	      <li><a href="https://www.shiksha.com/design/fashion-design/articles/top-10-fashion-design-colleges-in-india-2016-blogId-9384">College</a></li>
+		<li><a href="https://www.successcds.net/Top-Colleges/Fashion-Technology-Top-Ten.htm">Institutions</a></li>
+		<li><a href="https://www.indeed.co.in/jobs?q=fashion&matchtype=b&network=g&device=c&devicemodel=&creative=182332691258&keyword=%2Bfashion%20jobs&placement=&param1=&param2=&random=964855193097123399&aceid=&adposition=1t2&gclid=EAIaIQobChMIoM_DkdSm1QIVGQYqCh1FPw7hEAAYAiAAEgJsWPD_BwE">Apply for Job</a></li>
+		<li><a href="https://www.legalzoom.com/articles/how-to-start-a-business-opening-a-clothing-company">Startup</a></li>
+		<li><a href="http://pahaldesign.com/10-best-fashion-designers-of-india/">Designers</a></li>
+	</ul>
+	</div>
+	<div class="sidebar-topcontent">
+	<div class="side-bartopround"></div>
+	<div class="side-barcentercontent">
+	<h3 id="h3_font"> Connect With Us </h3>
+	<ul class="bullet_list2">
+	        <li>
+		<span class="social_icon"><img alt="facebook" src="images/Facebook.png" height="20" width="20">
+		</span>
+		<span class="social_icon_text"><a href="#">Facebook</a></span>
+		</li>
+		<li><span class="social_icon"><img alt="twitter_image" src="images/twitter-icon.png" height="22" width="22">
+		</span>
+		<span class="social_icon_text"><a href="#">Twitter</a></span>
+		</li>
+		
+	</ul>
+	</div>
+	</div>
+   </div>
+<div id="content">
+		<div class="topbanner">
+			<img src="images/concurso_europeu_designers_moda_epm.jpg" alt="image" width=620 height=310 >
+		</div>
+</div>
+<div class="content_area"> 
+<h2 id="h2_font">Instructions to be become a successful fashion designer:</h2>
+<p> <ol class="list_font"> <li> Honing Your Fashion Design Skills </li> <li>Working Out Which Fashion is Your Passion </li> 
+	<li> Deciding if the Fashion Industry is Ready for You</li> <li> Setting Yourself Up for Success </li> <li>Creating Your Fashion Portfolio</li>
+</ol>
+
+<br><br>
+<h2 id="h2_font">1. Honing Your Fashion Design Skills </h2> 
+<div id="content">
+		<div class="topbanner">
+			<img src="images/dev.jpg" alt="image" width=620 height=350 >
+		</div>
+</div>
+<b id="h3_font"> Develop your skills.</b> <br>
+Successful fashion designers have a wide array of skills, including drawing, an eye for color and texture, an ability to visualize concepts in three dimensions, and the mechanical skills involved in sewing and cutting all types of fabrics. 
+<ul> <li>Get excellent sewing tuition if you haven't already learned this skill well. Being able to sew difficult fabric under challenging situations will stand you in excellent stead throughout your career but you need to work at it - it's a skill that doesn't come easily to many people.</li>
+<li>Understand how fabrics move, drape, breathe, react when worn, etc. Your in-depth knowledge of fabric is absolutely essential to using it properly when designing. Also know where to source materials from.</li>
+<li> Learn from existing designers, not just who they are, but their backgrounds, their signature style, the learning that they undertook, where they studied. Knowing this will help you to be a better designer yourself, as you can borrow and build on their ideas.</li>
+<li> Start developing these skills at a young age. Be prepared to devote hours of time to perfecting your craft. A little bit everyday will make you gain a deep understanding of fashion on the long run if you are planning a career. Trying to do all at once might get you discouraged.</li>
+ </ul>
+ <br>
+
+<h3 id="previndex"> <a href="index.html">Previous page </a> </h3>
+<h3 id="nextindex"> <a href="index3.html">Click to Next </a> </h3>
+
+ 
+</p>
+</div>
+<div class="clear_float"></div>
+
+ <div id="footer">@Copyright 2017 <span class="footerTextBold"><a href="index.html">beadesigner.in</a></span>&nbsp; Operated by: 
+    <span class="footerTextBold">S WoRLd TechnoLogy </span>&nbsp;.All Rights Reserved &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Designed by :<span class="footerTextBold"> AP </span></div>
+</div>
+ </div>
+</body>
+</html>

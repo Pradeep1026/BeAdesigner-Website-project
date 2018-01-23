@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8"> 
+   <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+   <title> Images</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+ <body>
+<div class="bodybackground"> 
+   <div class="container">
+   <header class="header">
+	<a class="title" href="index.html"> <img src="images/ap-logo2.png" height="195" width="300"> </a>
+   </header>
+   <nav id="menu">
+	<ul>
+	<li >
+    	<a href="index.html"> HOME </a>
+	</li>
+	<li >
+	<a href="about.html"> ABOUT US </a>
+	</li>
+	<li>
+	<a href="contact.html"> CONTACT US </a>
+	</li>
+        <li class="active"> 
+        <a href="images.html">IMAGES</a>
+        </li>
+	</ul>
+   </nav>
+       
+<div> 
+    <div class="gallery">
+        <ul>
+            <li>
+                <a href="HandCraftPics/20170725_140037.jpg">
+                <img src="HandCraftPics/20170725_140037.jpg">
+            </a></li>
+            <li>
+                <a href=" HandCraftPics/20170725_140724.jpg "> 
+                <img src="HandCraftPics/20170725_140724.jpg">
+                    </a>
+            </li>
+              <li>
+                  <a href="HandCraftPics/20170725_141257.jpg  "> 
+                <img src="HandCraftPics/20170725_141257.jpg">
+                      </a>
+            </li>
+              <li>
+                  <a href=" HandCraftPics/20170725_141804.jpg "> 
+                <img src="HandCraftPics/20170725_141804.jpg">
+                      </a>
+            </li>
+              <li>
+                  <a href=" HandCraftPics/20170725_143809.jpg "> 
+                <img src="HandCraftPics/20170725_143809.jpg">
+                      </a>
+            </li>
+              <li>
+                  <a href="HandCraftPics/20170725_143604.jpg  "> 
+                <img src="HandCraftPics/20170725_143604.jpg">
+                      </a>
+            </li>
+              <li>
+                  <a href="HandCraftPics/20170725_143658.jpg  "> 
+                <img src="HandCraftPics/20170725_143658.jpg">
+                      </a>
+            </li>
+              <li>
+                  <a href=" HandCraftPics/20170725_143916.jpg "> 
+                <img src="HandCraftPics/20170725_143916.jpg">
+                      </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_142101.jpg "> 
+                <img src="HandCraftPics/20170725_142101.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_144956.jpg "> 
+                <img src="HandCraftPics/20170725_144956.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_143154.jpg "> 
+                <img src="HandCraftPics/20170725_143154.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_144031.jpg "> 
+                <img src="HandCraftPics/20170725_144031.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_144113.jpg  "> 
+                <img src="HandCraftPics/20170725_144113.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/IMG-20170716-WA0024.jpg  "> 
+                <img src="HandCraftPics/IMG-20170716-WA0024.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_144840.jpg "> 
+                <img src="HandCraftPics/20170725_144840.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_144415.jpg "> 
+                <img src="HandCraftPics/20170725_144415.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_142846.jpg "> 
+                <img src="HandCraftPics/20170725_142846.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_142328.jpg "> 
+                <img src="HandCraftPics/20170725_142328.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_145320.jpg "> 
+                <img src="HandCraftPics/20170725_145320.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_144315.jpg  "> 
+                <img src="HandCraftPics/20170725_144315.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_144820.jpg  "> 
+                <img src="HandCraftPics/20170725_144820.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_142658.jpg "> 
+                <img src="HandCraftPics/20170725_142658.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_142540.jpg "> 
+                <img src="HandCraftPics/20170725_142540.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_141657.jpg  "> 
+                <img src="HandCraftPics/20170725_141657.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_142204.jpg  "> 
+                <img src="HandCraftPics/20170725_142204.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_145047.jpg "> 
+                <img src="HandCraftPics/20170725_145047.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_145223.jpg "> 
+                <img src="HandCraftPics/20170725_145223.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_143047.jpg  "> 
+                <img src="HandCraftPics/20170725_143047.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_144632.jpg  "> 
+                <img src="HandCraftPics/20170725_144632.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href=" HandCraftPics/20170725_144718.jpg "> 
+                <img src="HandCraftPics/20170725_144718.jpg">
+                     </a>
+            </li>
+             <li>
+                 <a href="HandCraftPics/20170725_142426.jpg  "> 
+                <img src="HandCraftPics/20170725_142426.jpg">
+                   </a>  
+            </li>
+              <li>
+                  <a href=" HandCraftPics/20170725_143453.jpg "> 
+                <img src="HandCraftPics/20170725_143453.jpg">
+                  </a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+<div class="clear_float"></div>
+
+ <div id="footer">@Copyright 2017 <span class="footerTextBold"><a href="index.html">beadesigner.in</a></span>&nbsp; Operated by: 
+    <span class="footerTextBold">S WoRLd TechnoLogy </span>&nbsp;.All Rights Reserved &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Designed by :<span class="footerTextBold"> AP </span></div>
+</div>
+</div>
+</body>
+</html>

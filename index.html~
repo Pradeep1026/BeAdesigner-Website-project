@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8"> 
+   <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+   <title>Birthday</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+ <body style="background-color:black">
+     <img src="images/birthday.gif" width="450px" height="400">
+     <img src="images/profilelogo.jpg" width="370px" height="350">
+	<img src="images/b2.gif" width="450px" height="400">
+         <h1 align="center"><b> HAPPY BIRTHDAY JAN  Love you jan</b> </h1> <br>
+     <div>
+         <marquee>
+     <h1 id="h3_font">Love you So much Jan Umaaaaaaaaaaaaaaaa Love YOU soooo much jan</h1>
+         </marquee>
+             </div>
+     <p> <a href="indexm.html"><h1>Click here to see YOur Gift </h1></a></p>
+    </body>
+</html>

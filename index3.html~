@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8"> 
+   <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+   <title> Home </title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+ <body> 
+<div class="bodybackground">
+   <div class="container">
+   <header class="header">
+	<a class="title" href="index.html"> <img src="images/ap-logo2.png" height="195" width="300"> </a>
+   </header>
+   <nav id="menu">
+	<ul>
+	<li class="active">
+    	<a href="index.html"> HOME </a>
+	</li>
+	<li >
+	<a href="about.html"> ABOUT US </a>
+	</li>
+	<li>
+	<a href="contact.html"> CONTACT US </a>
+	</li>
+        <li> 
+        <a href="images.html">IMAGES</a>
+        </li>
+	</ul>
+   </nav>
+  
+      <div class="side-bar"> 
+	<div class="side-bartopround"></div>
+	<div class="side-barcentercontent">
+	<ul class="bullet_list">
+	         <li><a href="https://www.shiksha.com/design/fashion-design/articles/top-10-fashion-design-colleges-in-india-2016-blogId-9384">College</a></li>
+		<li><a href="https://www.successcds.net/Top-Colleges/Fashion-Technology-Top-Ten.htm">Institutions</a></li>
+		<li><a href="https://www.indeed.co.in/jobs?q=fashion&matchtype=b&network=g&device=c&devicemodel=&creative=182332691258&keyword=%2Bfashion%20jobs&placement=&param1=&param2=&random=964855193097123399&aceid=&adposition=1t2&gclid=EAIaIQobChMIoM_DkdSm1QIVGQYqCh1FPw7hEAAYAiAAEgJsWPD_BwE">Apply for Job</a></li>
+		<li><a href="https://www.legalzoom.com/articles/how-to-start-a-business-opening-a-clothing-company">Startup</a></li>
+		<li><a href="http://pahaldesign.com/10-best-fashion-designers-of-india/">Designers</a></li>
+	</ul>
+	</div>
+	<div class="sidebar-topcontent">
+	<div class="side-bartopround"></div>
+	<div class="side-barcentercontent">
+	<h3 id="h3_font"> Connect With Us </h3>
+	<ul class="bullet_list2">
+	        <li>
+		<span class="social_icon"><img alt="facebook" src="images/Facebook.png" height="20" width="20">
+		</span>
+		<span class="social_icon_text"><a href="#">Facebook</a></span>
+		</li>
+		<li><span class="social_icon"><img alt="twitter_image" src="images/twitter-icon.png" height="22" width="22">
+		</span>
+		<span class="social_icon_text"><a href="#">Twitter</a></span>
+		</li>
+		
+	</ul>
+	</div>
+	</div>
+   </div>
+
+<div class="content_area"> 
+<h2 id="h2_font">2. Working Out Which Fashion is Your Passion </h2>
+
+<div id="content">
+		<div class="topbanner">
+			<img src="images/career.jpg" alt="image" width=620 height=400 >
+		</div>
+</div>
+<b id="h3_font"> Decide which designing field is your principal interest.</b> <br>
+You may need to start at the bottom but you do need to have some goals in mind as to the type of designing you want to undertake lifelong. Are you interested most in haute couture, ready-to-wear, fitness/leisure gear, the mass market or niches such as eco wear? Each has advantages and disadvantages that you'll need to explore before reaching your final decision on which pathway to pursue. Within these major fields, you'll also need to decide on a few sub-set areas for your fashion design. You might wish to straddle a few but to begin with, don't over-extend yourself as it's better to perfect your designing within one area and then experiment when you've already got a good foothold in the industry. For example: 
+<ul> <li>Women's daywear, women's evening wear</li>
+<li>Men's daywear, men's evening wear</li>
+<li> Boys' wear and/or girls' wear; teenage wear</li>
+<li> Sportswear/fitness/leisure wear</li>
+<li>Knitwear</li> 
+<li>Bridal wear</li>
+<li>casual</li>
+<li>Costume design for theaters, movies, the advertising industry and retailers. </li>
+
+ </ul>
+ <br>
+<b id="h3_font">Downsize your ego.</b> <br>
+Think about real needs prior to think about fame. Looking cool is fine, but it won't sell garments by itself. If you are planning to become a fashion designer, you will not only make apparel for yourself or for famous people. You can't making a living out of that: they're not even 1% of the population. Even though you see big names in magazines: it's advertisement, not the reality. It doesn't work that way. Designers are especially needed for people with real, imperfect bodies that still want to look their best. Having a snob attitude will blind you from making money. Reality is: you don't design for yourself, you design for others. 
+<br><br>
+<div id="content">
+		<div class="topbanner">
+			<img src="images/fashion designer.jpg" alt="image" width=620 height=400 >
+		</div>
+</div>
+<b id="h3_font">Ask your customers what they need.</b><br>
+Be realistic: if you happen to live in a very warm country, you will have a tough time selling ski jackets. Look around you. What do real people need and want. For example, if you plan on designing a complete collection, you will need more tops that bottoms because most people have more tops than bottoms in their wardrobe in general. Tops are great to change your looks while a plain nice fitting pant will match most of your tops. Keep it simple and realistic. Extravagant sketches are nice on paper, but great tops and jeans will sell out in more interesting numbers than evening dresses. 
+<br><br>
+<div id="content">
+		<div class="topbanner">
+			<img src="images/20170725_144632.jpg" alt="image" width=630 height=410 >
+		</div>
+</div>
+<b id="h3_font">Get inspiration from your competitors.</b> <br>
+Observe and note the fabric they are using; the zipper size they use (for their garments to be strong enough for its usage); fabric quality for its properties such as impermeability, comfort, breathability or care; colours that sells in your country. Starting from your competitors qualities is not copying: it's observation. With taking the best of every pieces and analyzing it, you will understand what makes a "favorite" piece of clothing. They are usually best sellers. Your customers (whether they are buyers for stores or regular people) want something that looks good on them in the first place. Extravagant pieces are worn only a few days a year, they're great, but they may not bring you a salary to live with. 
+<br>
+<h3 id="previndex"> <a href="index2.html">Previous page </a> </h3>
+<h3 id="nextindex"> <a href="index4.html">Click to Next </a> </h3>
+
+ 
+</p>
+</div>
+<div class="clear_float"></div>
+
+ <div id="footer">@Copyright 2017 <span class="footerTextBold"><a href="index.html">beadesigner.in</a></span>&nbsp; Operated by: 
+    <span class="footerTextBold">S WoRLd TechnoLogy </span>&nbsp;.All Rights Reserved &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Designed by :<span class="footerTextBold"> AP </span></div>
+</div>
+ </div>
+</body>
+</html>
